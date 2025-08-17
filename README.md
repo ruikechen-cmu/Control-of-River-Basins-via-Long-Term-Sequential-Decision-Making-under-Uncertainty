@@ -73,6 +73,4 @@ These parameters allow flexible adjustment of control objectives depending on op
 
 This work is based on research conducted at **Carnegie Mellon University, Department of Civil and Environmental Engineering**, and applied to **Millerton Lake at Friant Dam (San Joaquin River, California)**.
 
-```
-
 
